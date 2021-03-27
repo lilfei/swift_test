@@ -8,9 +8,21 @@
 
 import SwiftUI
 
+/*
+ 布局组件
+    ZStack
+    VStack
+    HStack
+ */
 struct ContentView: View {
+    var player = Player("Tomas");
     var body: some View {
-        Text("Hello, World!")
+        VStack{
+            Text("Hello World!")
+                .font(.largeTitle)
+                .padding()
+            Text(player.name)
+        }
     }
 }
 
