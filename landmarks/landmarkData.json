@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1001,
+        "name": "name001",
+        "imageName": "jpg_001",
+        "coordinates":{
+            "latitude": 34.23523,
+            "longitude": -116.234234
+        },
+        "description": "description for lankmarks.json",
+        "kind": "park"
+    },
+    {
+        "id": 1002,
+        "name": "name002",
+        "imageName": "jpg_002",
+        "coordinates":{
+            "latitude": 34.23523,
+            "longitude": -116.234234
+        },
+        "description": "description for lankmarks.json",
+        "kind": "park"
+    },
+    {
+        "id": 1003,
+        "name": "name003",
+        "imageName": "jpg_003",
+        "coordinates":{
+            "latitude": 34.23523,
+            "longitude": -116.234234
+        },
+        "description": "description for lankmarks.json",
+        "kind": "park"
+    },
+    {
+        "id": 1004,
+        "name": "name004",
+        "imageName": "jpg_004",
+        "coordinates":{
+            "latitude": 34.23523,
+            "longitude": -116.234234
+        },
+        "description": "description for lankmarks.json",
+        "kind": "park"
+    },
+    {
+        "id": 1005,
+        "name": "name005",
+        "imageName": "jpg_005",
+        "coordinates":{
+            "latitude": 34.23523,
+            "longitude": -116.234234
+        },
+        "description": "description for lankmarks.json",
+        "kind": "park"
+    },
+    {
+        "id": 1006,
+        "name": "name006",
+        "imageName": "jpg_006",
+        "coordinates":{
+            "latitude": 34.23523,
+            "longitude": -116.234234
+        },
+        "description": "description for lankmarks.json",
+        "kind": "park"
+    }
+]

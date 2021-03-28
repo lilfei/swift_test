@@ -22,6 +22,8 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .padding()
             Text(player.name)
+            Text("haha")
+            LandmarkList()
         }
     }
 }

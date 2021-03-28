@@ -28,13 +28,16 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 //        StringsAndCharacters.test()
         
         // 非静态方法的使用
-        let functionsTest = FunctionsTest()
-        functionsTest.test()
+//        let functionsTest = FunctionsTest()
+//        functionsTest.test()
+        
+//        let landmarkRow = LandmarkRow()
         
         // Use a UIHostingController as window root view controller.
         if let windowScene = scene as? UIWindowScene {
             let window = UIWindow(windowScene: windowScene)
             window.rootViewController = UIHostingController(rootView: contentView)
+//            window.rootViewController = UIHostingController(rootView: landmarkRow)
             self.window = window
             window.makeKeyAndVisible()
         }
